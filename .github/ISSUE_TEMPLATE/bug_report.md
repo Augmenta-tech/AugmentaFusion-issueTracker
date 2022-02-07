@@ -23,9 +23,12 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
+**Screenshots**
+If you wish, attach your config file to give us more chance to reproduce.
+
 **Desktop (please complete the following information):**
  - OS: [e.g. win10, win11, OSX12, Linux (specify version)]
- - Version [e.g. 2.3.1b]
+ - Software version [e.g. 2.3.1b]
 
 **Additional context**
 Add any other context about the problem here.
