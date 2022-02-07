@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[Bug]"
+title: "[Bug] Short description of your bug"
 labels: bug
 assignees: ''
 
@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. win10, win11, OSX12, Linux]
+ - OS: [e.g. win10, win11, OSX12, Linux (specify version)]
  - Version [e.g. 2.3.1b]
 
 **Additional context**
