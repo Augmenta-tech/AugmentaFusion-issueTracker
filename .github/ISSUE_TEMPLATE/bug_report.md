@@ -23,7 +23,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Screenshots**
+**Project file**
 If you wish, attach your config file to give us more chance to reproduce.
 
 **Desktop (please complete the following information):**
